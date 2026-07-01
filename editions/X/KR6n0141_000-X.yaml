@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0141/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 表無表章栖翫記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0884.xml
+    old_id: X55n0884
+hash: sha256:3ce41bf4b741c457dded02c47ac6d1bfe4a45e2f91ae2b2242262574c43bf253
