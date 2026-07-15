@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0141/v1
 canonical_location: https://kanripo.org/bkk/KR6n0141/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 表無表章栖翫記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0141_000.yaml, hash: 'sha256:3ce41bf4b741c457dded02c47ac6d1bfe4a45e2f91ae2b2242262574c43bf253'}
-  - {seq: 1, filename: KR6n0141_001.yaml, hash: 'sha256:2eeb37455aac25646312fe816373634783fa9b37ed02122319b1ca83f126d60f'}
+  - {seq: 1, filename: KR6n0141_001.yaml, hash: 'sha256:b94ff17ffb2f1c73937af370989d52b3f5acd3a86a387da456ad675c8338a2f7'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0141_000.markers.yaml, hash: 'sha256:8c3127e8f88d1d5980bc2b1120fe64d93af5120e55478de8f6d511193966eb5a'}
-  - {seq: 1, role: markers, filename: assets/KR6n0141_001.markers.yaml, hash: 'sha256:cb69eeb1f8e2ac350d14548fccc8c4db3564dad14727a96acc0821ac35cb3539'}
+  - {seq: 1, role: markers, filename: assets/KR6n0141_001.markers.yaml, hash: 'sha256:00f47cd5a9ef9202204ee4a92f3a886bb2952e8dd90b100b36442dcb2d5b61c2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 表無表章栖翫記
   type: juan
   level: 1
-hash: sha256:a10b69d31e095c77c7805512b99b4d2263e1599f7aac1d35044833e4f416058c
+hash: sha256:cabe0ab33e4e9fc5605972925e0e662405bf85a0a0b0dcf85532e59f2eb18103
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
